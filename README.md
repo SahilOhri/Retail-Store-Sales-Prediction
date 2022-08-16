@@ -1,1 +1,3 @@
-# Retail-Store-Sales-Prediction
+# Retail Store Sales Prediction
+
+## About
